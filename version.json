@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "zipUrl": "https://github.com/N1-PlanbiPB_Launcher/releases/download/v1.0.0/TestClient_v1.0.0.zip",
+  "zipUrl": "https://raw.githubusercontent.com/N1-Planbi/TestServer/main/TestClient.zip",
   "exeName": "TestClient.exe"
 }
