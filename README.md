@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "zipUrl": "https://github.com/N1-Planbi/PB_Launcher/releases/download/v1.0.0/TestClient_v1.0.0.zip",
+  "exeName": "TestClient.exe"
+}
